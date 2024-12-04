@@ -1,0 +1,6 @@
+  /**
+     * Reads and logs the content of the file stored in private storage.
+     *
+     * @param context  Application context
+     * @param fileName Name of the file to read
+     */
